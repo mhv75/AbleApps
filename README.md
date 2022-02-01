@@ -1,4 +1,4 @@
-Espruino App Loader (and Apps)
+Espruino App Loader (and Apps) for  P8, ROCK, Magic 3 Smart Watches
 ==============================
 
 **THIS IS BETA:** We're still trying things out, so there isn't a great
