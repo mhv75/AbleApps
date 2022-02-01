@@ -27,7 +27,7 @@ if (window.location.host=="espruino.com") {
   let username = "mhv75";
   let githubMatch = window.location.href.match(/\/(\w+)\.github\.io/);
   if (githubMatch) username = githubMatch[1];
-  Const.APP_SOURCECODE_URL = `https://github.com/${username}/WatchApps/tree/master/apps`;
+  Const.APP_SOURCECODE_URL = `https://github.com/${username}/AbleApps/tree/master/apps`;
 })();
 
 const MYDEVICEINFO = [ {
